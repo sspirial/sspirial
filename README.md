@@ -48,9 +48,9 @@ Whether it's architecting adaptive tools, mapping logic into code, or reimaginin
 
 ## Get in Touch 📬
 
-- **Munubi's logs**(https://sspirial.github.io)
-- **Emmanuel Munubi**(https://www.linkedin.com/in/emmanuel-munubi/)
-- **X profile**(https://x.com/MunubiEmmanuel)
+- [**Munubi's logs**](https://sspirial.github.io)
+- [**LinkedIn**](https://www.linkedin.com/in/emmanuel-munubi/)
+- [**X profile**](https://x.com/MunubiEmmanuel)
 
 <!---
 sspirial/sspirial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
