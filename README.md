@@ -12,10 +12,10 @@ Systems Thinking | Self-Mastery | Perception | Inquiry | Resilience | Innovation
 
 Each principle guides how I build, learn, and connect.
 
-🔹 I seek to think in frameworks, not fragments.
-🔹 I aim to design for evolution, not just for launch.
-🔹 I pursue learning through inquiry, challenge, and synthesis.
-🔹 I hope to collaborate with those building responsibly and curiously.
+* I seek to think in frameworks, not fragments.
+* I aim to design for evolution, not just for launch.
+* I pursue learning through inquiry, challenge, and synthesis.
+* I hope to collaborate with those building responsibly and curiously.
 
 Whether it's architecting adaptive tools, mapping logic into code, or reimagining how we work and learn — I'm here to contribute to what outlasts trends.
 
