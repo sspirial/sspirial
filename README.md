@@ -1,6 +1,6 @@
 # I'm Munubi! 👋
 
-![github_banner](https://github.com/user-attachments/assets/385c297f-1926-4cb5-ad8f-bd3b2067327d)
+<!--![github_banner](https://github.com/user-attachments/assets/385c297f-1926-4cb5-ad8f-bd3b2067327d)-->
 
 ## About Me 🚀
 
