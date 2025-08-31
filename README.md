@@ -1,6 +1,6 @@
 # I'm Munubi! 👋
 
-<!--![github_banner](https://github.com/user-attachments/assets/385c297f-1926-4cb5-ad8f-bd3b2067327d)-->
+![github_banner](https://github.com/user-attachments/assets/385c297f-1926-4cb5-ad8f-bd3b2067327d)
 
 ## About Me 🚀
 
@@ -35,7 +35,7 @@ Whether it's architecting adaptive tools, mapping logic into code, or reimaginin
 
 ### [Pwani Innovation Week dummy](https://wall-of-developers.vercel.app)
 
-![image](https://github.com/user-attachments/assets/b97bbee9-0137-4d18-9641-aaafc8ba83ff)
+<!--![image](https://github.com/user-attachments/assets/b97bbee9-0137-4d18-9641-aaafc8ba83ff)-->
 
 
 **Pwani Innovation Week dummy** is a **dummy event landing page** built with **React**. This project demonstrates my ability to **collaborate with others on github ship code via vercel and build websites using React**. You can check out the repository [Wall of Developers](https://github.com/sspirial/wall-of-developers).
