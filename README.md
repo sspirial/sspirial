@@ -33,7 +33,7 @@ Whether it's architecting adaptive tools, mapping logic into code, or reimaginin
 
 ## Featured Projects 💻
 
-### [Pwani Innovation Week dummy](https://wall-of-developers.vercel.app)
+### [sspirial systems](https://sspirial.systems)
 
 <!--![image](https://github.com/user-attachments/assets/b97bbee9-0137-4d18-9641-aaafc8ba83ff)-->
 
