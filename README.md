@@ -38,7 +38,7 @@ Whether it's architecting adaptive tools, mapping logic into code, or reimaginin
 <!--![image](https://github.com/user-attachments/assets/b97bbee9-0137-4d18-9641-aaafc8ba83ff)-->
 
 
-**Pwani Innovation Week dummy** is a **dummy event landing page** built with **React**. This project demonstrates my ability to **collaborate with others on github ship code via vercel and build websites using React**. You can check out the repository [Wall of Developers](https://github.com/sspirial/wall-of-developers).
+**sspirial.systems** is an independent micro-studio dedicated to experimental software, complex architecture, and building tools for the next web.
 
 <!--### [Project 2 Title](project_2_link)
 
