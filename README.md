@@ -48,8 +48,9 @@ Whether it's architecting adaptive tools, mapping logic into code, or reimaginin
 
 ## Get in Touch 📬
 
+<!--
 - [**Munubi logs**](https://sspirial.github.io)
-- [**LinkedIn**](https://www.linkedin.com/in/emmanuel-munubi/)
+- [**LinkedIn**](https://www.linkedin.com/in/emmanuel-munubi/) -->
 - [**X profile**](https://x.com/MunubiEmmanuel)
 
 <!---
